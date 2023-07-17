@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cf4bd771.css",
-    "main.js": "/portfolio/static/js/main.c37be915.js",
+    "main.js": "/portfolio/static/js/main.f8d6ff32.js",
     "static/media/facerecognitionbrain.png": "/portfolio/static/media/facerecognitionbrain.e85d87dc2364f65dd270.png",
     "static/media/StartUpLandingPage.png": "/portfolio/static/media/StartUpLandingPage.6b94cab49b2d565b709f.png",
     "static/media/robots.png": "/portfolio/static/media/robots.9142e630366346736924.png",
@@ -10,10 +10,10 @@
     "static/media/hero-img.png": "/portfolio/static/media/hero-img.b9f2bfdaf4893b38656f.png",
     "index.html": "/portfolio/index.html",
     "main.cf4bd771.css.map": "/portfolio/static/css/main.cf4bd771.css.map",
-    "main.c37be915.js.map": "/portfolio/static/js/main.c37be915.js.map"
+    "main.f8d6ff32.js.map": "/portfolio/static/js/main.f8d6ff32.js.map"
   },
   "entrypoints": [
     "static/css/main.cf4bd771.css",
-    "static/js/main.c37be915.js"
+    "static/js/main.f8d6ff32.js"
   ]
 }
