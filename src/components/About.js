@@ -1,6 +1,6 @@
 import React from "react";
 import AboutImg from "../assets/about-img.png";
-
+//
 const About = () => {
   return (
     <section className="bg-secondery text-white px-5 py-32" id="about">
