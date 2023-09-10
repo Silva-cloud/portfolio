@@ -3,15 +3,31 @@ import StartUpLandingPage from "../assets/StartUpLandingPage.png";
 import facerecognitionbrain from "../assets/facerecognitionbrain.png";
 import robots from "../assets/robots.png";
 import recruitmentApp from "../assets/recruitmentApp.PNG";
+import bankApp from "../assets/bankApp.PNG";
+import tourApp from "../assets/tourApp.PNG";
 
 const Projects = () => {
   const projects = [
+    {
+      img: bankApp,
+      title: "bank app",
+      desc: "The user page of a bank account, Built using React,MUI, Chartjs. It is build to be responsive on mobile screen and on desktop",
+      live: "https://fluffy-treacle-2c2aaf.netlify.app/",
+      code: "https://github.com/Silva-cloud/Mokup",
+    },
     {
       img: recruitmentApp,
       title: "recruitment app",
       desc: "The home page of a recruiting company, Built using React,Tailwindcss, Framer motion",
       live: "https://silva-cloud.github.io/recruitment-app/",
       code: "https://github.com/Silva-cloud/recruitment-app",
+    },
+    {
+      img: tourApp,
+      title: "tours App",
+      desc: "A demo fullstack app that allows the CRUD operations, Built using React,RTK query, Express.js",
+      live: "https://tourapp123.netlify.app/",
+      code: "https://github.com/Silva-cloud/TourDemo",
     },
     {
       img: robots,
@@ -24,8 +40,8 @@ const Projects = () => {
       img: facerecognitionbrain,
       title: "face recognition app",
       desc: " An app that uses image recognition API to detect the face in a given image. Built with Express.js, postgress, React",
-      live: "https://silva-cloud.github.io/facerecognitionbrain/",
-      code: "https://github.com/Silva-cloud/facerecognitionbrain",
+      live: "https://silva-cloud.github.io/facerecognition2023/",
+      code: "https://github.com/Silva-cloud/facerecognition2023",
     },
     {
       img: StartUpLandingPage,
