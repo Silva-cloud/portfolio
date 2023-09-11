@@ -27,7 +27,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1zRAPz8LndH-Q8p1csqILrTXmQpstGpmn/view?usp=sharing"
+              href="https://drive.google.com/file/d/1lsQAqjSET3J0bnvlH24wWcpMzwncQ1JP/view?usp=sharing"
               target="_blank"
               without
               rel="noreferrer">
@@ -46,9 +46,6 @@ const Header = () => {
           </li>
           <li>
             <a href="/#projects">Projects</a>
-          </li>
-          <li>
-            <a href="/#blog">Blog</a>
           </li>
           <li>
             <a href="/#contact">Contact</a>

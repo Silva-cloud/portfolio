@@ -12,7 +12,7 @@ const Projects = () => {
       img: bankApp,
       title: "bank app",
       desc: "The user page of a bank account, Built using React,MUI, Chartjs. It is build to be responsive on mobile screen and on desktop",
-      live: "https://fluffy-treacle-2c2aaf.netlify.app/",
+      live: "https://recruitment-app123.netlify.app/",
       code: "https://github.com/Silva-cloud/Mokup",
     },
     {
@@ -81,13 +81,15 @@ const Projects = () => {
 
                 <div className="mx-auto">
                   <a
+                     target="_blank" 
                     href={project.live}
-                    className="px-5 py-2 bg-blue-500 hover:bg-blue-600 mr-5 font-bold">
+                    className="px-5 py-2 bg-blue-500 hover:bg-blue-600 mr-5 font-bold" rel="noreferrer">
                     Live
                   </a>
                   <a
+                     target="_blank" 
                     href={project.code}
-                    className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold">
+                    className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold" rel="noreferrer">
                     Code
                   </a>
                 </div>
